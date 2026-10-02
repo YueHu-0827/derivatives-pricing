@@ -57,7 +57,7 @@ derivatives-pricing/
 ## How to Run
 ```bash
 pip install -r requirements.txt
-jupyter notebook pricing.ipynb
+jupyter notebook Option Pricing.ipynb
 ```
 
 ## Notes on Scope
